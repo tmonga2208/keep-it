@@ -1,0 +1,11 @@
+.cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: ;
+}
+.images{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
